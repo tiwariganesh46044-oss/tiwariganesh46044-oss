@@ -14,3 +14,29 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# 👋 Hi, I'm Ganesh Tiwari
+
+### 💻 Full Stack Developer | MERN Stack Developer
+
+Welcome to my GitHub Profile!
+
+## 🚀 My Live Projects
+
+### 1. 🥟 Tiwari Samosa Corner
+A full-stack food ordering website.
+
+🔗 [Live Demo](https://tiwari-samosa-corner.vercel.app/)
+
+### 2. 🎮 Tic Tac Toe
+An interactive Tic Tac Toe game.
+
+🔗 [Live Demo](https://tic-tac-toe-liart-two-53.vercel.app/)
+
+### 3. ✊ Rock Paper Scissors
+An interactive Rock Paper Scissors game.
+
+🔗 [Live Demo](https://rock-paper-scissors-beta-ten.vercel.app/)
+
+---
+
+⭐ Thanks for visiting my GitHub Profile!
