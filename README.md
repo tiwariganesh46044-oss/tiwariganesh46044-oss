@@ -28,6 +28,11 @@ Interactive Number Guessing Game with Easy, Medium and Hard Difficulty Levels
 
 🔗 [Play Game](https://number-guessing-game-gray-one.vercel.app/)
 
+### 🐍 5. NEON SNAKE
+Modern and Responsive Snake Game with Multiple Difficulty Levels, Sound Effects, Dark/Light Mode and Mobile Controls.
+
+🔗 [Play Game](https://neon-snake-game-topaz.vercel.app/)
+
 ---
 
 ## 🛠️ Technologies
