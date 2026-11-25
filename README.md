@@ -23,6 +23,11 @@ Interactive Rock Paper Scissors Game
 
 🔗 [Play Game](https://rock-paper-scissors-beta-ten.vercel.app/)
 
+### 🎯 4. Number Quest - Number Guessing Game
+Interactive Number Guessing Game with Easy, Medium and Hard Difficulty Levels
+
+🔗 [Play Game](https://number-guessing-game-gray-one.vercel.app/)
+
 ---
 
 ## 🛠️ Technologies
